@@ -9,20 +9,27 @@
 body{
     margin: 0;
     padding: 0;
-    font-family: 'Roboto', sans-serif;
+    /*font-family: 'Roboto', sans-serif;*/
+    font-family: "Playfair Display";
     background-color: #101214;
     color: #7A7C80;
 
 }
 
 h2,.white{
-    color: #fff;
+    color: #3386FF;
+    margin-BOTTOM: 0;
 }
 
 h3,.white{
     color: #fff;
+    margin-BOTTOM: 0;
 }
 
+p{
+     margin-TOP: 0;
+     margin-BOTTOM: 2;
+}
 
 a{
     color: #7A7C80;
